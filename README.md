@@ -1,2 +1,2 @@
 # background-animation
-с подключением библиотеки particles
+Анимированный фон с JavaScript-библиотекой ParticlesJS
